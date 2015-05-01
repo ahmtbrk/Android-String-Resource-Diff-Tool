@@ -1,14 +1,14 @@
 # Android-String-Resource-Diff-Tool
 A usefool tool for android.Find diff between two resources
 
-Usage - English
+## Usage - English
 1.Create res1 and res2 folder to compare.php the same place
 2.First strings.xml file copy to res1 folder
 2.Second strings.xml file copy to res2 folder
 3.After these steps run compare.php on apache or another web server.
 4.After look diff.xml in res1 and res2 folders
 
-Kullanım - Türkçe
+## Kullanım - Türkçe
 1.compare.php ile aynı dizine res1 ve res2 klasörlerini oluşturun.
 2.Birinci strings.xml dosyasını res1 klasörüne kopyalayın.
 2.İkinci strings.xml dosyasını res2 klasörüne kopyalayın.
