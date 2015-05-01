@@ -1,6 +1,6 @@
 # Android-String-Resource-Diff-Tool
-A usefool tool for android.Find diff between two resources
-İki resource dosyasının birbirinden farklı elemanlarını ortaya çıkaran araç.
+* A usefool tool for android.Find diff between two resources
+* İki resource dosyasının birbirinden farklı elemanlarını ortaya çıkaran araç.
 
 ## Usage - English
 * 1.Create res1 and res2 folder to compare.php the same place
