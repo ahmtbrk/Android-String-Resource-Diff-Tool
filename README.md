@@ -1,5 +1,5 @@
 # Android-String-Resource-Diff-Tool
-* A usefool tool for android.Find diff between two resources
+* A useful tool for android.Find diff between two resources
 * İki resource dosyasının birbirinden farklı elemanlarını ortaya çıkaran araç.
 
 ## Usage - English
